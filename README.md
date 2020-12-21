@@ -11,4 +11,6 @@ Configuración de LogicApp para recibir correos.
 ![image](https://user-images.githubusercontent.com/63822421/102830189-c6011280-43b6-11eb-8291-e2175bba6d05.png)
 Elección de operación.
 ![image](https://user-images.githubusercontent.com/63822421/102830444-56d7ee00-43b7-11eb-9c55-54b97658aa5f.png)
+Elección de operación a realizar de Gmail.
+![image](https://user-images.githubusercontent.com/63822421/102830627-be8e3900-43b7-11eb-8340-2c22dacfe92c.png)
 
