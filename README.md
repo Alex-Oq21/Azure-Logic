@@ -7,4 +7,6 @@ Cambios en el sitio
 ![Cambios](https://user-images.githubusercontent.com/63822421/102701043-e7c89100-4220-11eb-8416-7119f7f4a6fd.JPG)
 Inicio de creación de LogicApp
 ![image](https://user-images.githubusercontent.com/63822421/102827204-26408600-43b0-11eb-9f13-c68d5e9b5c8c.png)
+Configuración de LogicApp para recibir correos.
+![image](https://user-images.githubusercontent.com/63822421/102830189-c6011280-43b6-11eb-8291-e2175bba6d05.png)
 
